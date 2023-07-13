@@ -1,16 +1,13 @@
-### Hi there 👋
+## 🔍 About Me
+- 💡 Passionate about C++ and Python development, reverse engineering, Windows internals, security research, and low-level programming.
+- 🤝🏻 Always open to collaborate on new projects.
 
-<!--
-**anthonyprintup/anthonyprintup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills and Technologies
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,js,cmake,mysql,bash,html,css,git,github,arduino,selenium,idea,vscode,visualstudio" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Statistics
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=anthonyprintup&show_icons=true&line_height=33&count_private=true&theme=dark" />
+</p>
